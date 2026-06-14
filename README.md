@@ -151,7 +151,7 @@ Deployment workflows
 
 <div align="center">
 
-> Turning ideas into reliable software through clean architecture and continuous learning.
+> "Turning ideas into reliable software through clean architecture and continuous learning"
 
 </div>
 
