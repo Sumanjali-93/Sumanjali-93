@@ -211,16 +211,6 @@ Deployment automation
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanjali-93&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-
-</div>
-
----
-
 # 🌐 Connect
 
 <div align="center">
