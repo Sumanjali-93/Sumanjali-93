@@ -221,16 +221,6 @@ Deployment automation
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanjali-93&bg_color=00000000&color=60A5FA&line=2563eb&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect
 
 <div align="center">
