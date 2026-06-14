@@ -91,7 +91,7 @@ class Engineer {
 
 ---
 
-# 🚀 Currently Ongoing
+# 🚀 Currently Focusing
 
 <div align="center">
 
