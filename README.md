@@ -197,16 +197,6 @@ Deployment automation
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sumanjali-93&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Turning ideas into reliable software through clean architecture and continuous learning.
