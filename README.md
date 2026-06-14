@@ -24,7 +24,7 @@
 
 ---
 
-# 👩‍💻 Engineering Focus
+# 👩‍💻 Whoami
 
 <table>
 <tr>
