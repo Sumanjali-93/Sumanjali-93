@@ -1,54 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sumanjali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20DSA%20•%20System%20Design&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0f172a,100:2563eb&text=Sumanjali&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20System%20Design%20•%20DSA&descAlignY=58&descSize=20"/>
 
-# Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems;Backend+Engineering+%26+Distributed+Architectures;Data+Structures+%26+Algorithms;Clean+Code+%7C+Performance+Optimization;Always+Learning+Always+Building"/>
 
-### Full Stack Engineer • DSA • Backend Engineering • Scalable Applications
+<br/>
 
-<p>
-Building high-performance systems and solving real-world engineering problems.
-</p>
+<img src="https://komarev.com/ghpvc/?username=Sumanjali-93&label=Profile+Views&color=2563eb&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sumanjali-93&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Sumanjali-93?style=for-the-badge&logo=github&color=111827"/>
 
-<img src="https://img.shields.io/github/followers/Sumanjali-93?style=for-the-badge&color=black"/>
-
-<img src="https://img.shields.io/github/stars/Sumanjali-93?style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/github/stars/Sumanjali-93?style=for-the-badge&logo=github&color=facc15"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-* 💻 Passionate about Full Stack Development
-* 🧠 Strong interest in DSA & System Design
-* ⚡ Building scalable backend systems
-* 🌱 Currently exploring distributed architectures
-* 🚀 Focused on engineering high-performance applications
-
----
-
-# 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,react,nodejs,express,mongodb,mysql,tailwind,docker,git,github,vscode,linux"/>
+## ⚡ Engineering Mindset
+
+Building reliable, scalable, and efficient systems with strong focus on architecture, performance, and problem solving.
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🧠 Core Areas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumanjali-93&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<table>
+<tr>
+<td align="center" width="220">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanjali-93&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+
+### DSA
+
+Advanced problem solving
+Competitive programming
+Optimization techniques
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+
+### Backend
+
+Scalable APIs
+Authentication
+System architecture
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+
+### Frontend
+
+Interactive UI
+Responsive systems
+Modern web apps
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+
+### DevOps
+
+Docker
+CI/CD
+Deployment workflows
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚒️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,docker,linux,git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumanjali-93&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanjali-93&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff"/>
 
 </div>
 
@@ -58,59 +113,19 @@ Building high-performance systems and solving real-world engineering problems.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanjali-93&theme=github-dark&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=Sumanjali-93&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanjali-93&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sumanjali-93&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7"/>
 
 </div>
-
----
-
-# 💻 Featured Projects
-
-## 💳 Digital Payment System
-
-High-performance fintech infrastructure focused on secure and scalable transactions.
-
-### Features
-
-* Secure authentication
-* Optimized backend APIs
-* Scalable architecture
-* Reliable transaction handling
-
----
-
-## 🧠 Interactive DSA Explorer
-
-Algorithm visualization platform for understanding computational processes interactively.
-
-### Features
-
-* Step-by-step execution
-* Graph algorithm visualization
-* Sorting visualizations
-* Educational developer tooling
-
----
-
-## 🌍 Trip-Verse
-
-Modern travel exploration platform with responsive UI and scalable frontend architecture.
-
----
-
-## ⚡ Focus Flash
-
-Productivity-focused application for improving concentration and workflow efficiency.
 
 ---
 
@@ -118,36 +133,26 @@ Productivity-focused application for improving concentration and workflow effici
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanjali-93&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanjali-93&bg_color=00000000&color=3b82f6&line=2563eb&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Current Goals
-
-* 🚀 Build production-grade backend systems
-* 🧠 Master System Design
-* ☁️ Learn Cloud & DevOps
-* 📈 Solve advanced DSA problems
-* 🌍 Contribute to Open Source
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/Sumanjali-93">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
 </div>
@@ -156,8 +161,16 @@ Productivity-focused application for improving concentration and workflow effici
 
 <div align="center">
 
-### ⚡ "Code. Build. Scale."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+---
+
+<div align="center">
+
+### ⚡ Code • Scale • Optimize • Repeat
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563eb,50:0f172a,100:000000"/>
