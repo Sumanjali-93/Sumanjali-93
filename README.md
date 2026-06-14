@@ -219,26 +219,6 @@ Deployment automation
 
 ---
 
-# 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/Sumanjali-93">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### Turning ideas into reliable software through clean architecture and continuous learning.
