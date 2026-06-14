@@ -1,195 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:020617,25:0f172a,60:1d4ed8,100:38bdf8&text=Sumanjali&fontColor=ffffff&fontSize=76&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Backend%20Systems%20•%20AI%20Explorer&descAlignY=60&descSize=23"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0f172a,100:1d4ed8&text=Sumanjali&fontColor=ffffff&fontSize=72&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20AI%20Explorer&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Scalable+Systems;Backend+Engineering+%26+Distributed+Architectures;Clean+Code+%7C+Performance+Optimization;Exploring+AI+Integrated+Applications;Always+Curious+About+How+Great+Systems+Work"/>
+<!-- STATUS BADGES -->
+<a href="https://github.com/Sumanjali-93">
+  <img src="https://komarev.com/ghpvc/?username=Sumanjali-93&style=flat-square&color=1d4ed8&label=Profile+Views"/>
+</a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Engineer-1d4ed8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Explorer-7c3aed?style=flat-square"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sumanjali-93&style=for-the-badge&color=2563eb&label=Profile+Views"/>
-
-<img src="https://img.shields.io/github/stars/Sumanjali-93?style=for-the-badge&logo=github&label=Stars&color=facc15"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ My Philosophy
-
-### Designing scalable systems with clean architecture, performance-driven engineering, and intuitive user experiences.
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+reliable+backends+%26+distributed+systems;Shipping+AI-integrated+applications;Clean+architecture+%7C+Performance+at+scale;Always+learning+%E2%80%94+always+building"/>
 
 </div>
 
 ---
 
-# 👩‍💻 Engineering Focus
+## `whoami`
 
-<table>
-<tr>
+```java
+class Sumanjali {
 
-<td width="55%">
+    String role        = "Full Stack Engineer";
+    String focus       = "Backend · Distributed Systems · AI";
+    String currentWork = "Building scalable, production-ready architectures";
+    boolean openToWork = true;
 
-```cpp
-class Engineer {
-
-    String name = "Sumanjali";
-
-    String[] interests = {
-        "Backend Engineering",
-        "Distributed Systems",
-        "Artificial Intelligence",
-        "System Design",
-        "Scalable Applications"
+    String[] stack = {
+        "Java", "Spring Boot", "Node.js", "Python",
+        "React", "TypeScript", "MongoDB", "MySQL",
+        "Docker", "Linux", "Go"
     };
 
-    String currentFocus =
-        "Building reliable and scalable software systems";
-
+    String[] learning = {
+        "LLM Engineering & AI workflows",
+        "Cloud-native & Kubernetes",
+        "High-performance API design"
+    };
 }
 ```
 
-### Focus Areas
-
-* Backend Engineering & APIs
-* Scalable System Architecture
-* AI-integrated Applications
-* Performance Optimization
-* Problem Solving & DSA
-
-### Currently Learning
-
-* Distributed Systems
-* AI Workflows & LLMs
-* Cloud & DevOps
-* Production-ready Architectures
-
-</td>
-
-<td width="45%">
-
-<div align="center">
-
-<img width="100%" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-</div>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
-# ⚒️ Tech Stack
+## ⚡ Impact Numbers
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,docker,linux,git,github,vscode,postman,go"/>
+| 🚀 Projects Shipped | 🧠 DSA Problems | 🛠 Tech Stacks | ☁ Deployments |
+|:---:|:---:|:---:|:---:|
+| **12+** | **200+** | **5+** | **10+** |
 
 </div>
 
 ---
 
-# 🚀 Currently Focusing
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Backend & APIs**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
+<td width="50%">
 
-<td align="center" width="320">
+### ⚙ Distributed Task Scheduler
+Fault-tolerant task execution engine with queue-based coordination, retry logic, and horizontal scaling. Built for production reliability.
 
-<img src="https://skillicons.dev/icons?i=python" width="65"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## AI Engineering
-
-Exploring intelligent systems, modern AI workflows, and practical AI integrations.
-
-</td>
-
-<td align="center" width="320">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/>
-
-## LLM Applications
-
-Learning scalable AI-powered applications and language model tooling.
+⭐ 42 &nbsp;&nbsp; 🍴 11
 
 </td>
+<td width="50%">
 
-<td align="center" width="320">
+### 🤖 AI Document Analyst
+LLM-powered pipeline that ingests documents, extracts structured data, and surfaces insights via a REST API with vector search.
 
-<img src="https://skillicons.dev/icons?i=docker" width="65"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 
-## AI Infrastructure
-
-Understanding deployment pipelines and production-ready AI architectures.
+⭐ 67 &nbsp;&nbsp; 🍴 18
 
 </td>
-
 </tr>
-</table>
-
-</div>
-
----
-
-# 🧠 Engineering Domains
-
-<div align="center">
-
-<table>
 <tr>
+<td width="50%">
 
-<td align="center" width="260">
+### 🔐 Auth Microservice
+JWT + OAuth2 authentication service with role-based access control. Designed as a drop-in for multi-service architectures.
 
-<img src="https://skillicons.dev/icons?i=java" width="70"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Problem Solving
-
-Advanced algorithms
-Optimization techniques
-Competitive programming
-
-</td>
-
-<td align="center" width="260">
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
-
-## Backend Systems
-
-REST APIs
-Authentication
-Scalable architecture
+⭐ 29 &nbsp;&nbsp; 🍴 8
 
 </td>
+<td width="50%">
 
-<td align="center" width="260">
+### 📊 DSA Visualizer
+Interactive visual debugger for algorithms — step through sorting, trees, and graph traversal with real-time state inspection.
 
-<img src="https://skillicons.dev/icons?i=react" width="70"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## Frontend Engineering
-
-Interactive UI
-Responsive applications
-Performance-focused design
-
-</td>
-
-<td align="center" width="260">
-
-<img src="https://skillicons.dev/icons?i=docker" width="70"/>
-
-## DevOps
-
-Docker workflows
-CI/CD pipelines
-Deployment automation
+⭐ 94 &nbsp;&nbsp; 🍴 31
 
 </td>
-
 </tr>
 </table>
 
@@ -197,38 +162,58 @@ Deployment automation
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sumanjali-93&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Turning ideas into reliable software through clean architecture and continuous learning.
-
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sumanjali-93&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=64748b&bg_color=00000000"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanjali-93&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=64748b&bg_color=00000000"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Sumanjali-93&theme=transparent&hide_border=true&ring=3b82f6&fire=1d4ed8&currStreakLabel=3b82f6&sideLabels=64748b&dates=94a3b8" width="60%"/>
 
 </div>
 
 ---
 
+## 🧠 Currently Exploring
+
+```
+🤖  LLM Engineering    ████████░░  Building agentic workflows & RAG pipelines
+☁   Cloud-Native       ██████░░░░  Kubernetes, observability, failure design
+⚡  High-Perf APIs     ███████░░░  Profiling, caching, async I/O at scale
+🧩  System Design      ████████░░  Distributed patterns & scalable architecture
+```
+
+---
+
+## 🛤 Journey
+
+```
+2022  ──●  Started engineering — C, Java, data structures & CS fundamentals
+         │
+2024  ──●  Deep dive into DSA · 200+ problems · Competitive programming
+         │
+2025  ──●  Full stack at scale — Spring Boot, React, MongoDB, Docker
+         │
+2026  ──●  AI infrastructure · LLM applications · Production AI systems
+```
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+**"Turning ideas into reliable software through clean architecture and continuous learning."**
 
-### ⚡ Code • Engineer • Scale • Optimize
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sumanjali--93-181717?style=flat-square&logo=github)](https://github.com/Sumanjali-93)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1d4ed8,100:020617"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:38bdf8,40:2563eb,75:0f172a,100:020617"/>
