@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:020617,25:0f172a,60:1d4ed8,100:38bdf8&text=Sumanjali&fontColor=ffffff&fontSize=76&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Backend%20Systems%20•%20AI%20Generative AI Engineer&descAlignY=60&descSize=23"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:020617,25:0f172a,60:1d4ed8,100:38bdf8&text=Sumanjali&fontColor=ffffff&fontSize=76&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Backend%20Systems%20•%20GenerativeAI%20Engineer&descAlignY=60&descSize=23"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Scalable+Systems;Backend+Engineering+%26+Distributed+Architectures;Clean+Code+%7C+Performance+Optimization;Exploring+AI+Integrated+Applications;Always+Curious+About+How+Great+Systems+Work"/>
 
