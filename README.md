@@ -197,18 +197,6 @@ Deployment automation
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Sumanjali-93&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&text_color=ffffff&icon_color=3B82F6"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanjali-93&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=ffffff"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
