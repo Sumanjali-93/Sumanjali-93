@@ -85,7 +85,7 @@ class Engineer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,docker,linux,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,springboot,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,docker,linux,git,github,vscode,postman,go"/>
 
 </div>
 
