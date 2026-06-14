@@ -24,7 +24,7 @@
 
 ---
 
-# 👩‍💻⚡ Engineering Focus
+# 👩‍💻 Engineering Focus
 
 <table>
 <tr>
