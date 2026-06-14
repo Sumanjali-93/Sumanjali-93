@@ -36,11 +36,9 @@
 ```cpp
 class Engineer {
 
-    public:
+    String name = "Sumanjali";
 
-    string name = "Sumanjali";
-
-    vector<string> interests = {
+    String[] interests = {
         "Backend Engineering",
         "Distributed Systems",
         "Artificial Intelligence",
@@ -48,10 +46,10 @@ class Engineer {
         "Scalable Applications"
     };
 
-    string currentFocus =
+    String currentFocus =
         "Building reliable and scalable software systems";
 
-};
+}
 ```
 
 ### Focus Areas
