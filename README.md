@@ -119,16 +119,6 @@ Deployment workflows
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanjali-93&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -161,7 +151,7 @@ Deployment workflows
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+> Turning ideas into reliable software through clean architecture and continuous learning.
 
 </div>
 
