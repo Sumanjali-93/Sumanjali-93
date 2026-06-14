@@ -81,7 +81,7 @@ class Engineer {
 
 <td align="center" width="260">
 
-<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
 
 ## Problem Solving
 
@@ -161,16 +161,6 @@ Deployment automation
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanjali-93&bg_color=00000000&color=60A5FA&line=2563eb&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanjali-93&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7"/>
 
 </div>
 
