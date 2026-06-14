@@ -26,7 +26,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻⚡ Engineering Focus
 
 <table>
 <tr>
