@@ -75,8 +75,7 @@ class Engineer {
 
 <div align="center">
 
-<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+<img width="100%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
 </td>
