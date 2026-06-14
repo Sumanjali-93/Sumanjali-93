@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/Sumanjali-93?style=for-the-badge&logo=github&label=Followers&color=111827"/>
-
 <img src="https://komarev.com/ghpvc/?username=Sumanjali-93&style=for-the-badge&color=2563eb&label=Profile+Views"/>
 
 <img src="https://img.shields.io/github/stars/Sumanjali-93?style=for-the-badge&logo=github&label=Stars&color=facc15"/>
