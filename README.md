@@ -32,9 +32,9 @@
 
 ```cpp
 class Engineer {
-    
+
     public:
-    
+
     string name = "Sumanjali";
 
     vector<string> interests = {
@@ -45,7 +45,8 @@ class Engineer {
         "Scalable Applications"
     };
 
-    string currentFocus = "Building reliable and scalable software systems";
+    string currentFocus =
+        "Building reliable and scalable software systems";
 
 };
 ```
@@ -67,6 +68,50 @@ class Engineer {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tailwind,redux,docker,linux,git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Currently Exploring
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="320">
+
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+
+## AI Engineering
+
+Exploring intelligent systems, modern AI workflows, and practical AI integrations.
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/>
+
+## LLM Applications
+
+Learning about scalable AI-powered applications and advanced language model tooling.
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://skillicons.dev/icons?i=docker" width="65"/>
+
+## AI Infrastructure
+
+Understanding deployment pipelines and production-ready AI architectures.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -161,6 +206,16 @@ Deployment automation
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanjali-93&bg_color=00000000&color=60A5FA&line=2563eb&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumanjali-93&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7"/>
 
 </div>
 
