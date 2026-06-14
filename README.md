@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,25:0f172a,60:1d4ed8,100:38bdf8&text=Sumanjali&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Backend%20Systems%20•%20DSA&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:020617,25:0f172a,60:1d4ed8,100:38bdf8&text=Sumanjali&fontColor=ffffff&fontSize=76&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Backend%20Systems%20•%20AI%20Explorer&descAlignY=60&descSize=23"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Scalable+Systems;Backend+Engineering+%26+Distributed+Architectures;Clean+Code+%7C+Performance+Optimization;Always+Curious+About+How+Great+Systems+Work"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Scalable+Systems;Backend+Engineering+%26+Distributed+Architectures;Clean+Code+%7C+Performance+Optimization;Exploring+AI+Integrated+Applications;Always+Curious+About+How+Great+Systems+Work"/>
 
 <br/>
 
@@ -26,9 +26,12 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A4cDZmY3R4M2w4bW40dHh2aXhnMXVnMWJ4N2t4Y2N6YjVhdzFxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="40"> About Me
+# 👩‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+
+<td width="55%">
 
 ```cpp
 class Engineer {
@@ -40,8 +43,8 @@ class Engineer {
     vector<string> interests = {
         "Backend Engineering",
         "Distributed Systems",
+        "Artificial Intelligence",
         "System Design",
-        "Problem Solving",
         "Scalable Applications"
     };
 
@@ -51,15 +54,35 @@ class Engineer {
 };
 ```
 
-<br/>
+### Focus Areas
 
-* Strong interest in scalable backend systems
-* Passionate about efficient problem solving
-* Focused on writing clean and maintainable code
-* Exploring DevOps, distributed systems, and cloud technologies
-* Consistently learning and improving engineering depth
+* Backend Engineering & APIs
+* Scalable System Architecture
+* AI-integrated Applications
+* Performance Optimization
+* Problem Solving & DSA
 
-<br clear="both"/>
+### Currently Learning
+
+* Distributed Systems
+* AI Workflows & LLMs
+* Cloud & DevOps
+* Production-ready Architectures
+
+</td>
+
+<td width="45%">
+
+<div align="center">
+
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -96,7 +119,7 @@ Exploring intelligent systems, modern AI workflows, and practical AI integration
 
 ## LLM Applications
 
-Learning about scalable AI-powered applications and advanced language model tooling.
+Learning scalable AI-powered applications and language model tooling.
 
 </td>
 
@@ -255,4 +278,4 @@ Deployment automation
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:38bdf8,40:2563eb,75:0f172a,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:38bdf8,40:2563eb,75:0f172a,100:020617"/>
