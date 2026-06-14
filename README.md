@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# ⚡ My Philosophy
+# ⚡ My Objectives
 
 ### Designing scalable systems with clean architecture, performance-driven engineering, and intuitive user experiences.
 
